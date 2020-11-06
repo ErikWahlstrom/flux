@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flux/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/flux/static/js/main.e62c1c6e.chunk.js",
+    "main.js.map": "/flux/static/js/main.e62c1c6e.chunk.js.map",
+    "runtime-main.js": "/flux/static/js/runtime-main.90f11eb6.js",
+    "runtime-main.js.map": "/flux/static/js/runtime-main.90f11eb6.js.map",
+    "static/js/2.47f4c332.chunk.js": "/flux/static/js/2.47f4c332.chunk.js",
+    "static/js/2.47f4c332.chunk.js.map": "/flux/static/js/2.47f4c332.chunk.js.map",
+    "static/js/3.13a23b2e.chunk.js": "/flux/static/js/3.13a23b2e.chunk.js",
+    "static/js/3.13a23b2e.chunk.js.map": "/flux/static/js/3.13a23b2e.chunk.js.map",
+    "index.html": "/flux/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/flux/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.47f4c332.chunk.js.LICENSE.txt": "/flux/static/js/2.47f4c332.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/flux/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90f11eb6.js",
+    "static/js/2.47f4c332.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.e62c1c6e.chunk.js"
+  ]
+}
